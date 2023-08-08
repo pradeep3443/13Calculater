@@ -2,7 +2,7 @@
 
 Hello World,
 
-I have just started digging into android world this is my first usage android application.Which I use daily.
+I have just started digging into android world this is my first usage android application which I use daily.
 
 This app is basically used to get the after tax amount for any item you buy.
 
